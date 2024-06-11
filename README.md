@@ -1,4 +1,3 @@
-# Projeto Curso Guanabara
- Primeiro Repositorio Versionado, Git e Github
+# CURSO EBAC FRONTED
 
-COLOQUEI ESSA LINHA NO SITE DIRETO!
+
